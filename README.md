@@ -13,4 +13,7 @@
   Allstock analysis as seen when the the original code usually goes over .5 milliseconds, while the refractored code
   performance is generally slightly below .5 milliseconds
 
-![2017 runtime complexity of refractored code]
+![2017 runtime complexity of refractored code](https://github.com/tlin41390/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+![2018 runtime complexity of refractored code](https://github.com/tlin41390/stock-analysis/blob/main/Resources/VBA_Challege_2018.png)
+
