@@ -6,4 +6,11 @@
   through a series of commands, which is alot more efficient than doing it manually.
   
  ## Results
-  According to the results of the stocks, in 2017 
+  According to the results of the stocks, in 2017 there was a higher rate of return for all stocks, 
+  except for TERP, and generally the volume of each stock was higher than in 2018, where almost 
+  all the stocks in 2018 sees a negative rate in return, except for the stocks ENPH which yield a return of 
+  81.9% and RUN which has a return rate of 84%. The runtimes of the refractored code is slightly faster than the 
+  Allstock analysis as seen when the the original code usually goes over .5 milliseconds, while the refractored code
+  performance is generally slightly below .5 milliseconds
+
+![2017 runtime complexity of refractored code]
