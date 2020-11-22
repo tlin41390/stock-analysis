@@ -17,3 +17,16 @@
 
 ![2018 runtime complexity of refractored code](https://github.com/tlin41390/stock-analysis/blob/main/Resources/VBA_Challege_2018.png)
 
+  ## Summary
+  ### Advantage and Disadvantage of Refractoring
+  The advangate of refractoring code is that editing or altering the code structure while keeping the functionality
+  will help you understand the code better and make you better at programming. In addition, refractoring code has the 
+  potential to improve the runtime complexity, or the memory space used, as sometimes people want you to create programs
+  that take less space and time to run. The disadvantage of refractoring code however, is that it can be time consuming as 
+  you need to spend some time figuring out how to later the code without changing its purpose, which can take along tame and be
+  very difficult. Also, you may be stuck refractoring and trying to refractor has the potential to ruin or destroy the code
+  ### How do these pros and cons apply to refractoring the code in vba
+  These pros and cons apply to the refractorization of the original script in VBA, because by taking the time trying to edit
+  the code, there is a possibility to create a different version that will help make the code run faster and more efficient.
+  However, there were times where I felt like refractoring the code may be time consuming, and without the instructions I may be 
+  more stuck trying to refractor the code.
